@@ -15,6 +15,7 @@ Dataset of historic solar pv power generation in Belgium is extracted from [ELIA
 
 For questions :
 
-send me an email at : hamzarabi303@gmail.com 
+send me an email at : 📧 hamzarabi303@gmail.com 
+
 contact me on : [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamza-rabi)  
 
