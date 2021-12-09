@@ -11,7 +11,7 @@ In this project we will be using historic data of Photovoltaic Solar power gener
 *   XGBoost
       * Bayesian Hyperparamter tuning of 3 XGBoost models simultaneously with Optuna
 *   Conclusion
-      * Performance Evaluation Against ELIA's own forecasting models (could'nt beat them)
+      * Performance Evaluation Against ELIA's own forecasting models
 
 Dataset of historic solar pv power generation in Belgium is extracted from [ELIA.be](https://www.elia.be/en/grid-data/power-generation/solar-pv-power-generation-data) website and added to this repo as [ELIA_Belgium_Data_PV_output.csv](ELIA_Belgium_Data_PV_output.csv). 
 
